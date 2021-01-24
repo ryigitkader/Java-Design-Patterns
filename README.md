@@ -8,3 +8,5 @@
     - ThreadSafe Singleton
     - Bill Pugh Singleton
 
+## Factory Design Pattern
+    - 
