@@ -1,4 +1,13 @@
 package com.company.designpatterns.decorator;
 
-public class Phone {
+public interface Phone {
+
+    String getName();
+
+    int cameraCount();
+
+    double getPrice();
+
+
+
 }

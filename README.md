@@ -9,4 +9,9 @@
     - Bill Pugh Singleton
 
 ## Factory Design Pattern
-    - 
+
+## Builder Design Pattern
+
+## Decorator Design Pattern
+
+## Facade Design Pattern
